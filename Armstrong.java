@@ -11,7 +11,8 @@ public static void main(String[] args) {
 	}
 	if(temp==sum){
 		System.out.println("Given number is armstrong");
-	}else{);
+	}else{
+		System.out.println("Given number is not armstrong"););
 	}
 }
-
+}
